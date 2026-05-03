@@ -70,3 +70,6 @@ on-chain data analysis, and real-world payment protocols.
 
 [![Email](https://img.shields.io/badge/Email-sakicansev@gmail.com-blue?style=flat&logo=gmail)](mailto:sakicansev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saki_Cansev-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sakicansev)
+
+
+<meta name="google-site-verification" content="Q6E5br9UDC2P8Tf_aqYUF71A3XcVCQ0Y6yJ1K42ZvlM" />
