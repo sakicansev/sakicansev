@@ -1,8 +1,7 @@
 # Hi, I'm Saki Cansev 👋
-
 Economics graduate turned Data Analyst, based in Amersfoort, Netherlands.
 I combine a BSc in Economics and an MSc in Data Analytics to build
-data-driven insights at the intersection of finance, crypto, and technology.
+data-driven insights at the intersection of finance, crypto, and blockchain.
 
 ---
 
@@ -14,9 +13,16 @@ Python · R · SQL · SQLite · Pandas · NumPy · Scikit-learn · Matplotlib ·
 **Data Engineering**
 ETL Pipelines · Data Modeling · Data Warehousing · MongoDB · MySQL · CosmosDB · HDFS
 
-**Machine Learning**
-Linear & Logistic Regression · Random Forest · Decision Trees · 
-Customer Segmentation · Fraud Detection · Model Validation
+**Machine Learning & Data Mining**
+Linear & Logistic Regression · Random Forest · Decision Trees · K-Means Clustering ·
+Anomaly Detection · Customer Segmentation · Fraud Detection · Model Validation · CRISP-DM
+
+**Blockchain & On-Chain Analytics**
+UTXO vs Account Model · Gas Fees & Mempool Mechanics · Layer 2 Networks (Arbitrum, Optimism, Lightning) ·
+Stablecoins (USDC, USDT, DAI) · Payment Protocols · Dune Analytics
+
+**Web & Backend (Learning)**
+JavaScript · Node.js · Go
 
 **Tools**
 Git · GitHub · Jupyter · Anaconda · JIRA · Agile/Scrumban
@@ -53,23 +59,18 @@ on-chain data analysis, and real-world payment protocols.
 ---
 
 ## 🎯 Currently Working On
-
 - 📈 Netherlands energy prices & inflation analysis (2024–2026)
 - ⛓ On-chain payment data analysis with Dune Analytics
+- 🐹 Learning Go for backend & full-stack development
 - 🌐 Deepening specialization in crypto/fintech analytics
 
 ---
 
 ## 🌍 Languages
-
 🇹🇷 Turkish (Native) · 🇬🇧 English (Native) · 🇩🇪 German (A2) · 🇳🇱 Dutch (A1 — improving)
 
 ---
 
 ## 📬 Get In Touch
-
 [![Email](https://img.shields.io/badge/Email-sakicansev@gmail.com-blue?style=flat&logo=gmail)](mailto:sakicansev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saki_Cansev-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sakicansev)
-
-
-<meta name="google-site-verification" content="Q6E5br9UDC2P8Tf_aqYUF71A3XcVCQ0Y6yJ1K42ZvlM" />
